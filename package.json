@@ -1,0 +1,25 @@
+{
+  "name": "ember-cli-simple-auth-tok",
+  "version": "0.0.1",
+  "description": "Include the Ember Simple Auth tok extension library into an Ember CLI application.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/ahazem/ember-cli-simple-auth-tok.git"
+  },
+  "keywords": [
+    "ember-addon"
+  ],
+  "author": "Ahmed Hazem",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ahazem/ember-cli-simple-auth-tok/issues"
+  },
+  "homepage": "https://github.com/ahazem/ember-cli-simple-auth-tok",
+  "devDependencies": {
+    "ember-cli-simple-auth": "~0.7.0"
+  }
+}
