@@ -20,6 +20,6 @@
   },
   "homepage": "https://github.com/ahazem/ember-cli-simple-auth-tok",
   "devDependencies": {
-    "ember-cli-simple-auth": "~0.7.0"
+    "ember-cli-simple-auth": "~0.7.1"
   }
 }
