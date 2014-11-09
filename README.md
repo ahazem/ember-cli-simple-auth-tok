@@ -22,7 +22,7 @@ which adds the extension's bower package to your bower_components folder.
 
 ## Configuration
 
-The extension uses the Ember CLI project configuration as defined in `config/environment.js`, to configure options do as follows:
+The extension uses the Ember CLI project configuration as defined in `config/environment.js`, to configure options use `ENV['simple-auth-tok']` as follows:
 
 ```
 ENV['simple-auth-tok'] = {
