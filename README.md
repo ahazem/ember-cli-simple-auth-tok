@@ -18,7 +18,7 @@ This will add the package to your project's node_modules folder, you will then h
 ember generate ember-cli-simple-auth-tok
 ```
 
-which adds the extensio's bower package to your bower_components folder.
+which adds the extension's bower package to your bower_components folder.
 
 ## Configuration
 
